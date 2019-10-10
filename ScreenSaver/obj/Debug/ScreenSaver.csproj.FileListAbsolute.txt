@@ -1,0 +1,50 @@
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
+c:\users\e0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.ScreenSaverForm.resources
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\Interop.PDFSHELLSERVERLib.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\Interop.SHDocVw.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\Interop.VBA.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.ResolveComReference.cache
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\itextsharp.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.Modeling.SDK.Integration.Shell.14.0.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\PdfSharp.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\EnvDTE.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\stdole.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.MSXML.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\itextsharp.xml
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\PdfSharp.pdb
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\PdfSharp.xml
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\fr\Microsoft.VisualStudio.Modeling.SDK.Integration.Shell.14.0.resources.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\fr\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.resources.dll
+C:\Users\E0287583\documents\visual studio 2015\Projects\ScreenSaver\ScreenSaver\bin\Debug\fr\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\Interop.AcroPDFLib.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\Interop.SHDocVw.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\Interop.VBA.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.ResolveComReference.cache
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\PdfSharp.pdb
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\PdfSharp.xml
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\fr\Microsoft.VisualStudio.Modeling.SDK.Integration.Shell.14.0.resources.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\de\PdfSharp.resources.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\bin\Debug\fr\Microsoft.VisualStudio.Modeling.Sdk.Integration.14.0.resources.dll
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.ScreenSaverForm.resources
+E:\Projet Sanofi\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
